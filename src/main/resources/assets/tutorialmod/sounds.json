@@ -1,0 +1,12 @@
+{
+  "music_box": {
+    "sounds": [
+      {
+        "name": "tutorialmod:music_box",
+        "stream": true
+      }
+    ]
+
+
+  }
+}
